@@ -1,0 +1,4 @@
+~ presentation.pptx
+.ipynb_checkpoints/2-checkpoint.jpg .ipynb_checkpoints/ConvNet-checkpoint.ipynb .ipynb_checkpoints/ImageNet_classes-checkpoint.py .ipynb_checkpoints/plot_lib-checkpoint.py
+__pycache__/ImageNet_classes.cpython-36.pyc __pycache__/plot_lib.cpython-36.pyc
+FashionMNIST/processed FashionMNIST/raw
